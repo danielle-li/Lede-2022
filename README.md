@@ -1,2 +1,2 @@
 # Lede 2022
- Random exercises from Lede 2022 [https://ledeprogram.com/]
+ Coding practice exercises from Lede 2022 [https://ledeprogram.com/]
